@@ -1,0 +1,8 @@
+{
+  "name": "id-scanner",
+  "version": "0.0.1",
+  "dependencies": {
+    "jsfeat": "*"
+  },
+  "private": true
+}
